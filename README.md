@@ -31,7 +31,7 @@ fun(x)
 ```
 
 ## Output:
-![square root of a number](ss1.png)
+![square root of a number](https://github.com/Hemapriya-2004/Square-root-of-a-number/blob/3e7cd798293748cb5502c29b77cfe1f3e992ed4d/ss1.PNG)
 
 
 ## Result:
